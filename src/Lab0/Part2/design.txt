@@ -1,0 +1,16 @@
+Ali Shahid
+CIS 35A
+Lab 0
+11/12/21
+11/12/21
+
+Variables
+	(float) f, c are input variables for Fahrenheit and Centigrade respectively.
+	(float) calf and calcc are variables that apply the function to one of the above inputs.
+Input
+	Use scanner to read value for f and c
+Process
+	Apply formula of Cel to Far on c
+	Apply formula of Far to Cel on f
+Printing
+	System.out.printf("%.2f degrees Fahrenheit/Centigrade is %.2f degrees Centigrade/Fahrenheit.", f/c, calcc/calcf);

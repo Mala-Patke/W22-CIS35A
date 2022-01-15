@@ -1,0 +1,38 @@
+Ali Shahid
+CIS 35A
+Lab 0
+11/12/21
+11/12/21
+
+Set 1: 
+How many TV's were sold? 2
+How many VCR's were sold? 1
+How many remote controllers were sold? 4
+How many CD's were sold? 1
+How many Tape Recorders were sold? 2
+	 #	Description                   		     Unit Price		    Total Price
+	 2	TV                            		         400.00		         800.00
+	 1	VCR                           		         220.00		         220.00
+	 4	Remote Control                		          35.20		         140.80
+	 1	CD                            		         300.00		         300.00
+	 2	Tape Recorder                 		         150.00		         300.00
+  SUBTOTAL        1760.80
+       TAX         154.07
+     TOTAL        1914.87
+     
+     
+Set 2: 
+How many TV's were sold? 3
+How many VCR's were sold? 0
+How many remote controllers were sold? 2
+How many CD's were sold? 0
+How many Tape Recorders were sold? 21
+	 #	Description                   		     Unit Price		    Total Price
+	 3	TV                            		         400.00		        1200.00
+	 0	VCR                           		         220.00		           0.00
+	 2	Remote Control                		          35.20		          70.40
+	 0	CD                            		         300.00		           0.00
+	21	Tape Recorder                 		         150.00		        3150.00
+  SUBTOTAL        4420.40
+       TAX         386.78
+     TOTAL        4807.19

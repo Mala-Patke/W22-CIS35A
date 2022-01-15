@@ -1,0 +1,24 @@
+Ali Shahid
+CIS 35A
+Lab 0
+11/12/21
+11/12/21
+
+Variables
+	(float) Constants for price of each individual item, named <item>Cost.
+	(float) Constant for sales tax, named taxRate;
+	(int) Variables for quantity of each item ordered, named <item>Count.
+	(float) Variables for total cost of all of one item, named total<item>Cost
+	(float) Variables for subtotal, tax, and total
+Input
+	Use scanner to read all <item>Count variables
+Processing
+	Calculate total price for all of one item
+		<item>Count * <item>Cost
+	compute subtotal as the sum of all of the total prices
+	compute tax using tax variable
+	compute total with tax accounted as totalWithTax
+Printing
+		Header: 	System.out.printf("\t%2s\t%-30s\t\t%15s\t\t%15s\n","#","Description", "Unit Price", "Total Price");
+		Each item: 	System.out.printf("\t%2d\t%-30s\t\t%15.2f\t\t%15.2f\n",TVCount, "TV", TVCost, totalTVCost);
+	
