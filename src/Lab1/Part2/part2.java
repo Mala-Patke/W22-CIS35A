@@ -21,7 +21,7 @@ public class part2 {
 		System.out.print("Enter a number to take the square root of: ");
 		long input = scanner.nextLong();
 		scanner.close();
-
+		
 		double result = sqrt(input);
 		System.out.printf("The square root of %d is %f.\n", input, result);
 	}
