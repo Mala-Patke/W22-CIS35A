@@ -14,20 +14,19 @@ public class part1 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Loan amount: ");
-		int loanAmnt = scanner.nextInt();
+		int balance = scanner.nextInt();
 		System.out.print("Number of Years: ");
 		int years = scanner.nextInt();
 		System.out.print("Annual Interest rate: ");
 		int interestRate = scanner.nextInt();
 		
 		double monthlyInterestRate = interestRate / 100.0 / 12.0;
-		double monthlyPayment = monthlyPaymentCalc(loanAmnt, years, monthlyInterestRate);
+		double monthlyPayment = monthlyPaymentCalc(balance, years, monthlyInterestRate);
 		System.out.printf("\nMonthly payment: %.2f\n", monthlyPayment);
 		System.out.printf("Interest amount: %.2f\n\n", monthlyPayment * 12);
 		
 		double interest;
 		double principal;
-		double balance = loanAmnt;
 		System.out.println("Payment#\tInterest\tPrincipal\tBalance");
 		for(int i = 1; i <= years * 12; i++) {
 			interest = balance * monthlyInterestRate;
