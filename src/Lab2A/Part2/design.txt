@@ -1,0 +1,20 @@
+Ali Shahid
+CIS 35A
+Lab 2A
+1/27/21
+1/27/21
+
+Variables
+	final char[] answerKey: Hardcoded correct answers to the quiz
+	final char[] input1: Serves as user input, answers of a given exam
+Input
+	Enter 15 characters equal to either A, B, C, or D into input1.
+Processing
+	Find the number of correct answers using totalCorrectAnswers(input1)
+	Find the number of incorrect answers using totalIncorrectAnswers(input1)
+	Find the numbers of the missed questions using questionNumbersMissed(input1)
+	Display if the user passed or not by making sure the total number of incorrect answers would be less than 3.
+Printing
+	Print results of totalCorrectAnswers and totalIncorrectAnswers with a simple printf statement
+	Print results of questionNumbersMissed by iterating through and printing all nonzero results
+	Display Student Passed message if totalIncorrectAnswers > 3; display Student did not pass message otherwise.

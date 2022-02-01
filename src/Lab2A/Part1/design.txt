@@ -1,0 +1,25 @@
+Ali Shahid
+CIS 35A
+Lab 2A
+1/27/21
+1/27/21
+
+Variables
+	final int decimalInput - Decimal number to be converted to binary
+	final int[] binaryInput - Array of Binary number inserted into array backwards to be converted to decimal.
+Input
+	enter values for decimalInput and binaryInput
+Processing
+	Convert decimalInput to binary and print by iterating backwards through array
+	Iterate backwards through binaryInput and convert result to decimal
+Printing
+		Decimal to Binary Printing: 
+		System.out.printf("%d in binary is ", decimalInput);
+		int[] d2b = decimalToBinary(decimalInput);
+		for(int i = d2b.length-1; i >= 0; i--) System.out.printf("%d", d2b[i]);
+		System.out.println("\n");
+		
+		Binary to decimal printing: 
+		for(int i = binaryInput.length-1; i >= 0; i--) System.out.printf("%d", binaryInput[i]);
+		System.out.printf(" in decimal is %d\n", binaryToDecimal(binaryInput));
+	

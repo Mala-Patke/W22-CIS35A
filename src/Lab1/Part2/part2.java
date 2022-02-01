@@ -1,7 +1,6 @@
 package Lab1.Part2;
 
 import java.util.Scanner;
-import java.lang.Math;
 
 public class part2 {
 	public static double sqrt(long n) {

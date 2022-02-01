@@ -1,0 +1,20 @@
+Ali Shahid
+CIS 35A
+Lab 2A
+1/27/21
+1/27/21
+
+Variables
+	No variables used. Builder used for data, genTestData, that generates 24 random integers between 0 and 20.
+Input
+	Not required, handled by genTestData()
+Processing
+	Generate test data then with said data:
+	Part 1: No process used, just nest-loop through and print
+	Part 2: Nest-loop through and set each table value to itself subtracted from the previous value. If no previous value, print 0;
+	Part 3: Calculate the sum of each row of data
+	Part 4: Same process as number 2, using part 3 instead of part 1.
+	Part 5: Calculate the average of each row of data
+	Part 6: Find the largest value of each row and print it's index
+Printing
+	Generate test data and then call all 6 print functions with said data.

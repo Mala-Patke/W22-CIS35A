@@ -48,7 +48,7 @@ public class part2 {
 		System.out.println("");
 		
 		if(passed(input1)) System.out.println("Student Passed.");
-		else System.out.println("Student did not pass");
+		else System.out.println("Student did not pass.");
 		
 	}
 }
