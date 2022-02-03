@@ -1,0 +1,25 @@
+Ali Shahid
+CIS 35A
+Lab 2
+2/2/22
+2/2/22
+
+What is this Genome's name? Lilo
+How many genes does Lilo have? 20000
+How many chromosomes does Lilo have? 46
+How many cells does Lilo have (in trillions)? 100
+
+What is this Genome's name? Stitch
+How many genes does Stitch have? 20000
+How many chromosomes does Stitch have? 47
+How many cells does Stitch have (in trillions)? 120
+
+What is this Genome's name? Jumba
+How many genes does Jumba have? 20000
+How many chromosomes does Jumba have? 47
+How many cells does Jumba have (in trillions)? 150
+
+Name		Gene Count	Chromosomes	Cell Count (in trillions)
+Lilo		20000		46		100
+Stitch		20000		47		120
+Jumba		20000		47		150

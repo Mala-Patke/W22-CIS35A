@@ -1,0 +1,56 @@
+Ali Shahid
+CIS 35A
+Lab 2
+2/2/22
+2/2/22
+
+What is this nucleic acid's name? Cytosine
+What is Cytosine's chemical formula? C4H5N3O
+What is Cytosine's molar mass? 111.10
+What is Cytosine's density? 1.55
+
+What is this nucleic acid's name? Adenine
+What is Adenine's chemical formula? C5H5N5
+What is Adenine's molar mass? 135.13
+What is Adenine's density? 1.6
+
+What is this nucleic acid's name? Guanine
+What is Guanine's chemical formula? C5H5N5O
+What is Guanine's molar mass? 151.13
+What is Guanine's density? 2.200
+
+What is this nucleic acid's name? Thymine
+What is Thymine's chemical formula? C5H6N2O2
+What is Thymine's molar mass? 126.115
+What is Thymine's density? 1.223
+
+What is this nucleic acid's name? Uracil
+What is Uracil's chemical formula? C4H4N2O2
+What is Uracil's molar mass? 112.08676
+What is Uracil's density? 1.32
+
+
+Name: Cytosine
+Chemical Formula: C4H5N3O
+Molar Mass: 111.10000 g/mol
+Density: 1.55000 g/cm3
+
+Name: Adenine
+Chemical Formula: C5H5N5
+Molar Mass: 135.13000 g/mol
+Density: 1.60000 g/cm3
+
+Name: Guanine
+Chemical Formula: C5H5N5O
+Molar Mass: 151.13000 g/mol
+Density: 2.20000 g/cm3
+
+Name: Thymine
+Chemical Formula: C5H6N2O2
+Molar Mass: 126.11500 g/mol
+Density: 1.22300 g/cm3
+
+Name: Uracil
+Chemical Formula: C4H4N2O2
+Molar Mass: 112.08676 g/mol
+Density: 1.32000 g/cm3

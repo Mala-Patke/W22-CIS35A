@@ -53,10 +53,6 @@ public class HumanGenome {
 	
 	//Printer
 	public void print() {
-		System.out.printf("Name: %s\n", this.name);
-		System.out.printf("Number of genes: %s\n", this.numGenes);
-		System.out.printf("Number of Chromosomes: %s\n", this.numChromosomes);
-		System.out.printf("Number of Cells (trillions): %s\n", this.numCells);
-
+		System.out.printf("\n%s\t\t%d\t\t%d\t\t%d", this.name, this.numGenes, this.numChromosomes, this.numCells);
 	}
 }
