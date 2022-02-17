@@ -17,20 +17,8 @@ public class Store {
 	public float getSaleForWeekDay(int week, int day) {
 		return this.salesByWeek[week][day];
 	}
-
-	//void printdata
-	public void printdata() {
-		for (int i = 0; i < 5; i++)
-		{
-			for (int j = 0; j < 7; j++)
-			{
-				System.out.print(salesByWeek[i][j] + " ");
-			}
-			System.out.println("");
-		}
-	}
 	
-	//BusinessMethods
+	//Business Methods
 	//float totalSalesForWeek(int week)
 	public float totalSalesForWeek(int week) {
 		float sum = 0;
@@ -83,15 +71,15 @@ public class Store {
 		return ret;
 	}
 	
-	// float [] getsalesforentireweek(int week)
-	// float getsaleforweekdayintersection(int week, int day)
-	// businessmethod
-	// a. totalsalesforweek
-	// b. avgsalesforweek
-	// c. totalsalesforallweeks
-	// d. averageweeklysales
-	// e. weekwithhighestsaleamt
-	// f. weekwithlowestsaleamt
-	// analyzeresults //call a through f
-	// print()
+	//void printdata
+	public void printdata() {
+		for (int i = 0; i < 5; i++)
+		{
+			for (int j = 0; j < 7; j++)
+			{
+				System.out.print(salesByWeek[i][j] + " ");
+			}
+			System.out.println("");
+		}
+	}
 }

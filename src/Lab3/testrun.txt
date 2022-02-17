@@ -1,0 +1,169 @@
+Ali Shahid
+CIS 35A
+Lab 3
+2/16/22
+2/16/22
+
+Run for each possible input value, denoted by ----------------------
+
+RUN 1: 
+----------------------
+1. Total Sales per each week
+2. Average daily sales for each week
+3. Total sales for all the weeks
+4. Average weekly sales
+5. Week with the highest amount in sales
+6. Week with the lowest amount in sales
+Enter a number for analytics on all stores (1-6): 1
+
+Store 1:
+	Week 1: 16419.52
+	Week 2: 20615.00
+	Week 3: 24878.00
+	Week 4: 29141.00
+	Week 5: 33404.00
+Store 2:
+	Week 1: 12919.52
+	Week 2: 17115.00
+	Week 3: 21378.00
+	Week 4: 25641.00
+	Week 5: 29904.00
+Store 3:
+	Week 1: 19919.52
+	Week 2: 24115.00
+	Week 3: 28378.00
+	Week 4: 32641.00
+	Week 5: 36904.00
+Store 4:
+	Week 1: 23573.38
+	Week 2: 27768.86
+	Week 3: 32031.86
+	Week 4: 36294.86
+	Week 5: 40557.86
+Store 5:
+	Week 1: 16459.07
+	Week 2: 20654.55
+	Week 3: 24917.55
+	Week 4: 29180.55
+	Week 5: 33443.55
+Store 6:
+	Week 1: 26912.45
+	Week 2: 31107.93
+	Week 3: 35370.93
+	Week 4: 39633.93
+	Week 5: 43896.93
+	
+RUN 2
+----------------------
+1. Total Sales per each week
+2. Average daily sales for each week
+3. Total sales for all the weeks
+4. Average weekly sales
+5. Week with the highest amount in sales
+6. Week with the lowest amount in sales
+Enter a number for analytics on all stores (1-6): 2
+
+Store 1:
+	Week 1: 2345.65
+	Week 2: 2945.00
+	Week 3: 3554.00
+	Week 4: 4163.00
+	Week 5: 4772.00
+Store 2:
+	Week 1: 1845.65
+	Week 2: 2445.00
+	Week 3: 3054.00
+	Week 4: 3663.00
+	Week 5: 4272.00
+Store 3:
+	Week 1: 2845.65
+	Week 2: 3445.00
+	Week 3: 4054.00
+	Week 4: 4663.00
+	Week 5: 5272.00
+Store 4:
+	Week 1: 3367.63
+	Week 2: 3966.98
+	Week 3: 4575.98
+	Week 4: 5184.98
+	Week 5: 5793.98
+Store 5:
+	Week 1: 2351.30
+	Week 2: 2950.65
+	Week 3: 3559.65
+	Week 4: 4168.65
+	Week 5: 4777.65
+Store 6:
+	Week 1: 3844.64
+	Week 2: 4443.99
+	Week 3: 5052.99
+	Week 4: 5661.99
+	Week 5: 6270.99
+	
+RUN 3
+----------------------
+1. Total Sales per each week
+2. Average daily sales for each week
+3. Total sales for all the weeks
+4. Average weekly sales
+5. Week with the highest amount in sales
+6. Week with the lowest amount in sales
+Enter a number for analytics on all stores (1-6): 3
+
+Store 1: 124457.52
+Store 2: 106957.52
+Store 3: 141957.52
+Store 4: 160226.81
+Store 5: 124655.27
+Store 6: 176922.19
+
+RUN 4
+----------------------
+1. Total Sales per each week
+2. Average daily sales for each week
+3. Total sales for all the weeks
+4. Average weekly sales
+5. Week with the highest amount in sales
+6. Week with the lowest amount in sales
+Enter a number for analytics on all stores (1-6): 4
+
+Store 1: 24891.50
+Store 2: 21391.50
+Store 3: 28391.50
+Store 4: 32045.36
+Store 5: 24931.05
+Store 6: 35384.44
+
+RUN 5
+----------------------
+1. Total Sales per each week
+2. Average daily sales for each week
+3. Total sales for all the weeks
+4. Average weekly sales
+5. Week with the highest amount in sales
+6. Week with the lowest amount in sales
+Enter a number for analytics on all stores (1-6): 5
+
+Store 1: Week 5 had the highest sales.
+Store 2: Week 5 had the highest sales.
+Store 3: Week 5 had the highest sales.
+Store 4: Week 5 had the highest sales.
+Store 5: Week 5 had the highest sales.
+Store 6: Week 5 had the highest sales.
+6
+RUN 6
+----------------------
+1. Total Sales per each week
+2. Average daily sales for each week
+3. Total sales for all the weeks
+4. Average weekly sales
+5. Week with the highest amount in sales
+6. Week with the lowest amount in sales
+Enter a number for analytics on all stores (1-6): 6
+
+Store 1: Week 1 had the lowest sales.
+Store 2: Week 1 had the lowest sales.
+Store 3: Week 1 had the lowest sales.
+Store 4: Week 1 had the lowest sales.
+Store 5: Week 1 had the lowest sales.
+Store 6: Week 1 had the lowest sales.
